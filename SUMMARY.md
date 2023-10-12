@@ -9,3 +9,4 @@
 - [Elemental Stones](doc/elemental-stones.md)
 - [Work Hook](doc/work-hook.md)
 - [Rapier+10](doc/rapier+10.md)
+- [Mad Warrior Mask](doc/mad-warrior-mask.md)
