@@ -27,7 +27,7 @@
     "gitbook-plugin-octocat": "^1.0.2",
     "gitbook-plugin-remove-published-with-link": "^1.0.3",
     "honkit": "^5.1.1",
-    "honkit-plugin-youtube": "^0.0.7",
+    "honkit-plugin-youtube": "^0.0.8",
     "markdownlint": "^0.31.1",
     "prettier": "^3.0.3"
   }
