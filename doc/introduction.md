@@ -46,12 +46,13 @@ playthrough.
    fog wall again. Simply reload your backup.
 1. Learn from your mistakes. Study how no-hit runners approach a particular
    situation and incorporate their strategies into your game play. You might
-   find these useful.<br/>
-   {% youtube id="vYvCX9sLyKE", title="Dark Souls II SOTFS SL1 All Bosses" %}{% endyoutube %}
+   find these useful.
 
-   {% youtube id="rDMTgkciGn4", title="0 Hit Run with a Level 1 Character - Dark Souls 2" %}{% endyoutube %}
+    {% youtube id="vYvCX9sLyKE", title="Dark Souls II SOTFS SL1 All Bosses" %}{% endyoutube %}
 
-   {% youtube id="9C48gEkn3xg", title="Dark Souls 2 - SL1 No-Hit All Bosses Base Game" %}{% endyoutube %}
+    {% youtube id="rDMTgkciGn4", title="0 Hit Run with a Level 1 Character - Dark Souls 2" %}{% endyoutube %}
+
+    {% youtube id="9C48gEkn3xg", title="Dark Souls 2 - SL1 No-Hit All Bosses Base Game" %}{% endyoutube %}
 
 1. Infuse multiple copies of a weapon with different elemental stones. Farm
    elemental stones from the nest of Basilisks at Things Betwixt. Some of the
