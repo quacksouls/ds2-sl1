@@ -14,3 +14,4 @@
 - [Ring of Blades+1](doc/ring-of-blades+1.md)
 - [Flynn's Ring](doc/flynns-ring.md)
 - [Strength Ring](doc/strength-ring.md)
+- [Ring of the Embedded](doc/ring-of-embedded.md)
