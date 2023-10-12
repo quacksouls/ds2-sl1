@@ -7,3 +7,4 @@
 - [Handmaid's Ladle](doc/handmaids-ladle.md)
 - [Mace+6](doc/mace+6.md)
 - [Elemental Stones](doc/elemental-stones.md)
+- [Work Hook](doc/work-hook.md)
