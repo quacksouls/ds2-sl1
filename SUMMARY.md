@@ -8,3 +8,4 @@
 - [Mace+6](doc/mace+6.md)
 - [Elemental Stones](doc/elemental-stones.md)
 - [Work Hook](doc/work-hook.md)
+- [Rapier+10](doc/rapier+10.md)
