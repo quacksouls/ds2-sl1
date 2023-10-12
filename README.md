@@ -13,7 +13,7 @@ https://www.youtube.com/playlist?list=PL2OiiNZU6nWMgNlNZH9rb9flRVGjaBsDe
 ## Acknowledgement
 
 <!-- prettier-ignore -->
-- [HonKit](https://github.com/honkit/honkit) is used to build the tutorial.
+- [HonKit](https://github.com/honkit/honkit) is used to build the guide.
 
 <!-- ====================================================================== -->
 
