@@ -12,3 +12,4 @@
 - [Mad Warrior Mask](doc/mad-warrior-mask.md)
 - [Dexterity Ring](doc/dexterity-ring.md)
 - [Ring of Blades+1](doc/ring-of-blades+1.md)
+- [Flynn's Ring](doc/flynns-ring.md)
