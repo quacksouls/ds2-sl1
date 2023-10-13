@@ -27,3 +27,4 @@
 - [Crown of the Ivory King](doc/ivory-king.md)
 - [King's Crown](doc/kings-crown.md)
 - [Nashandra & Aldia](doc/nashandra-aldia.md)
+- [What's next?](doc/next.md)
