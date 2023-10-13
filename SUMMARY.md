@@ -26,3 +26,4 @@
 - [Crown of the Old Iron King](doc/old-iron-king.md)
 - [Crown of the Ivory King](doc/ivory-king.md)
 - [King's Crown](doc/kings-crown.md)
+- [Nashandra & Aldia](doc/nashandra-aldia.md)
