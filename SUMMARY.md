@@ -24,3 +24,4 @@
 - [Miscellaneous bosses](doc/miscellaneous-bosses.md)
 - [Crown of the Sunken King](doc/sunken-king.md)
 - [Crown of the Old Iron King](doc/old-iron-king.md)
+- [Crown of the Ivory King](doc/ivory-king.md)
