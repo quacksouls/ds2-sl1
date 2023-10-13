@@ -17,3 +17,4 @@
 - [Ring of the Embedded](doc/ring-of-embedded.md)
 - [Vessel Shield](doc/vessel-shield.md)
 - [Defeat the Old Ones](doc/old-ones.md)
+- [King's Ring](doc/kings-ring.md)
