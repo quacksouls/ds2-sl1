@@ -22,3 +22,4 @@
 - [Ashen Mist Heart](doc/ashen-mist-heart.md)
 - [Giant's Kinship](doc/giants-kinship.md)
 - [Miscellaneous bosses](doc/miscellaneous-bosses.md)
+- [Crown of the Sunken King](doc/sunken-king.md)
