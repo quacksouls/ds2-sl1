@@ -19,3 +19,4 @@
 - [Defeat the Old Ones](doc/old-ones.md)
 - [King's Ring](doc/kings-ring.md)
 - [Bonfire Ascetic & farming](doc/bonfire-ascetic.md)
+- [Ashen Mist Heart](doc/ashen-mist-heart.md)
